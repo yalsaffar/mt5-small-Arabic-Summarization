@@ -1,0 +1,9 @@
+pandas==2.0.3
+transformers==4.38.0.dev0
+evaluate==0.4.1
+numpy==1.24.4
+nltk==3.8.1
+datasets==2.16.1
+torch==2.1.2+cpu
+wandb==0.16.3
+
