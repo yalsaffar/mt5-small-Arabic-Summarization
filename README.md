@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ## Hugging Face  Implementation
 The fine-tuned model is available on Hugging Face, providing an easy way to integrate and use the summarization model in various applications. The model can be accessed and utilized directly through the Hugging Face platform.
 
-- [Hugging Face for hosting the fine-tuned model]()
+- [Hugging Face for hosting the fine-tuned model](https://huggingface.co/yalsaffar/mt5-small-Arabic-Summarization)
 ## Usage
 
 There are two ways to replicate the model fine-tuning:
